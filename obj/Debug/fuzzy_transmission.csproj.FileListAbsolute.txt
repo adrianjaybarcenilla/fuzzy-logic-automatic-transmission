@@ -1,0 +1,13 @@
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\bin\Debug\fuzzy_transmission.exe.config
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\bin\Debug\fuzzy_transmission.exe
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\bin\Debug\fuzzy_transmission.pdb
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\bin\Debug\AssettoCorsaSharedMemory.dll
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.csproj.AssemblyReference.cache
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.Form1.resources
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.Properties.Resources.resources
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.csproj.GenerateResource.cache
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.csproj.CopyComplete
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.exe
+C:\Users\adrian\Documents\GitHub\fuzzy-automatic-transmission-master\fuzzy_transmission\fuzzy_transmission\obj\Debug\fuzzy_transmission.pdb
