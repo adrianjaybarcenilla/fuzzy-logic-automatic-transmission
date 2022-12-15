@@ -13,6 +13,11 @@ Users can adjust the sliders of the factors to produce a desired gear for the au
 
 ![image](https://user-images.githubusercontent.com/111829440/207767161-333a47db-88c3-4f1d-9f07-7030f106b1e7.png)
 
+The factors include speed, throttle position, brake, steering wheel position, and throttle variation.
+
+All of these variables will control and determine the optimal gear for an automatic transmission car.
+
+![image](https://user-images.githubusercontent.com/111829440/207767331-44c78594-7347-4a4b-a26c-47ef66e62861.png)
 
 
-## Disclaimer
+Disclaimer: 
