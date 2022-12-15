@@ -10,6 +10,7 @@ Instructor: Dr. Chris Jordan G. Aliac
 This is a simple automatic transmission controller for cars based on fuzzy logic created in C#. 
 
 Users can adjust the sliders of the factors to produce a desired gear for the automatic transmission.
+
 ![image](https://user-images.githubusercontent.com/111829440/207767161-333a47db-88c3-4f1d-9f07-7030f106b1e7.png)
 
 
