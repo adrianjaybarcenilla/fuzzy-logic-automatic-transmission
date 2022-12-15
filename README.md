@@ -28,8 +28,8 @@ More examples of the application being run:
 
 ## Disclaimer and Special Thanks: 
 
-Big thanks to LucianoBAF of Github for the base repository.
+Big thanks to LucianoBAF of Github for the base knowledge.
 
-This program is created and based on LucianoBAF's Fuzzy Automatic Transmission program.  
+This program is created and based on LucianoBAF's Fuzzy Automatic Transmission program.
 
 The source code was made to be integrated with the racing simulation game Assetto Corsa - this feature has been removed in this repository.
